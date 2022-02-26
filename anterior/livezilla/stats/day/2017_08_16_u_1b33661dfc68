@@ -1,0 +1,384 @@
+<br><br>
+<table cellpadding="0" cellspacing="0" align="center" width="900">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line"><!--lang_stats_visitors--></td>
+					<td class="header_line" align="right"><script>document.write(new Date(2017,7,16,0, 00, 00, 0).toLocaleDateString());</script></td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">&nbsp;&nbsp;2 <!--lang_stats_visitors--> (<em>unique</em>)</td>
+					<td class="header_nav_line" align="right">Status:&nbsp;&nbsp;<!--lang_stats_status_closed-->&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="40" align="center"><!--lang_stats_pages--></td>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_entrance--></td>
+					<td class="bt_column_header" width="60" align="center"><!--lang_stats_exit--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_country--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_city--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_browser--></td>
+					<td class="bt_column_header" width="*"><!--lang_stats_system--></td>
+					<td class="bt_column_header" width="25">&nbsp;</td>
+				</tr>
+				<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_1');"><b>40</b></a></td>
+    <td align="center">06:49:37</td>
+    <td align="center">00:49:06</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP>Salvador</td>
+    <td NOWRAP>10</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vs" align="right"><div class="ico_info" onclick="showInfoBox('Vivo','36','1','177.158.xxx.xxx','177.206.xxx.xxx.dynamic.adsl.gvt.net.br','d9e6cc0856',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_11">
+		<td align="center">1</td>
+		<td align="center">06:49:37</td>
+		<td align="center">06:50:29</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/" target="_blank"><b>http://localhost/sistema_hortonovaera/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_12">
+		<td align="center">2</td>
+		<td align="center">06:50:29</td>
+		<td align="center">06:50:31</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/hortonovaera%20_v2.0/contato.php" target="_blank"><b>http://localhost/hortonovaera%20_v2.0/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_13">
+		<td align="center">3</td>
+		<td align="center">06:50:31</td>
+		<td align="center">06:50:34</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/hortonovaera%20_v2.0/" target="_blank"><b>http://localhost/hortonovaera%20_v2.0/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_14">
+		<td align="center">4</td>
+		<td align="center">06:50:34</td>
+		<td align="center">06:53:08</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/hortonovaera%20_v2.0/portfolio.html" target="_blank"><b>http://localhost/hortonovaera%20_v2.0/portfolio.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_15">
+		<td align="center">5</td>
+		<td align="center">06:53:08</td>
+		<td align="center">06:53:13</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/" target="_blank"><b>http://localhost/sistema_hortonovaera/</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_16">
+		<td align="center">6</td>
+		<td align="center">06:53:13</td>
+		<td align="center">06:53:19</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_17">
+		<td align="center">7</td>
+		<td align="center">06:53:19</td>
+		<td align="center">06:53:23</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.html" target="_blank"><b>http://localhost/sistema_hortonovaera/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_18">
+		<td align="center">8</td>
+		<td align="center">06:53:23</td>
+		<td align="center">06:53:45</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_19">
+		<td align="center">9</td>
+		<td align="center">06:53:45</td>
+		<td align="center">07:00:09</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_110">
+		<td align="center">10</td>
+		<td align="center">07:00:09</td>
+		<td align="center">07:00:13</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portfolio.html" target="_blank"><b>http://localhost/sistema_hortonovaera/portfolio.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_111">
+		<td align="center">11</td>
+		<td align="center">07:00:13</td>
+		<td align="center">07:00:17</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/clientes.html" target="_blank"><b>http://localhost/sistema_hortonovaera/clientes.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_112">
+		<td align="center">12</td>
+		<td align="center">07:00:17</td>
+		<td align="center">07:00:20</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.html" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_113">
+		<td align="center">13</td>
+		<td align="center">07:00:20</td>
+		<td align="center">07:03:15</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.html" target="_blank"><b>http://localhost/sistema_hortonovaera/index.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_114">
+		<td align="center">14</td>
+		<td align="center">07:03:15</td>
+		<td align="center">07:03:43</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.html" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_115">
+		<td align="center">15</td>
+		<td align="center">07:03:43</td>
+		<td align="center">07:17:14</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_116">
+		<td align="center">16</td>
+		<td align="center">07:17:14</td>
+		<td align="center">07:17:24</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_117">
+		<td align="center">17</td>
+		<td align="center">07:17:24</td>
+		<td align="center">07:17:27</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_118">
+		<td align="center">18</td>
+		<td align="center">07:17:27</td>
+		<td align="center">07:17:30</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_119">
+		<td align="center">19</td>
+		<td align="center">07:17:30</td>
+		<td align="center">07:25:41</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_120">
+		<td align="center">20</td>
+		<td align="center">07:25:41</td>
+		<td align="center">07:25:47</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_121">
+		<td align="center">21</td>
+		<td align="center">07:25:47</td>
+		<td align="center">07:29:20</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_122">
+		<td align="center">22</td>
+		<td align="center">07:29:20</td>
+		<td align="center">07:29:22</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_123">
+		<td align="center">23</td>
+		<td align="center">07:29:22</td>
+		<td align="center">07:39:10</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_124">
+		<td align="center">24</td>
+		<td align="center">07:39:10</td>
+		<td align="center">07:39:20</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_125">
+		<td align="center">25</td>
+		<td align="center">07:39:20</td>
+		<td align="center">07:44:40</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_126">
+		<td align="center">26</td>
+		<td align="center">07:44:40</td>
+		<td align="center">07:44:45</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_127">
+		<td align="center">27</td>
+		<td align="center">07:44:45</td>
+		<td align="center">07:44:47</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_128">
+		<td align="center">28</td>
+		<td align="center">07:44:47</td>
+		<td align="center">07:45:52</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_129">
+		<td align="center">29</td>
+		<td align="center">07:45:52</td>
+		<td align="center">07:47:49</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_130">
+		<td align="center">30</td>
+		<td align="center">07:47:49</td>
+		<td align="center">07:57:54</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portifolio.php" target="_blank"><b>http://localhost/sistema_hortonovaera/portifolio.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_131">
+		<td align="center">31</td>
+		<td align="center">07:57:54</td>
+		<td align="center">07:58:03</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portfolio.html" target="_blank"><b>http://localhost/sistema_hortonovaera/portfolio.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_132">
+		<td align="center">32</td>
+		<td align="center">07:58:03</td>
+		<td align="center">08:12:02</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portifolio.php" target="_blank"><b>http://localhost/sistema_hortonovaera/portifolio.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_133">
+		<td align="center">33</td>
+		<td align="center">08:12:02</td>
+		<td align="center">08:12:18</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_134">
+		<td align="center">34</td>
+		<td align="center">08:12:18</td>
+		<td align="center">08:12:20</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portfolio.html" target="_blank"><b>http://localhost/sistema_hortonovaera/portfolio.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_135">
+		<td align="center">35</td>
+		<td align="center">08:12:20</td>
+		<td align="center">08:12:24</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.html" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_136">
+		<td align="center">36</td>
+		<td align="center">08:12:24</td>
+		<td align="center">08:12:31</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_137">
+		<td align="center">37</td>
+		<td align="center">08:12:31</td>
+		<td align="center">08:12:37</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portifolio.php" target="_blank"><b>http://localhost/sistema_hortonovaera/portifolio.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_138">
+		<td align="center">38</td>
+		<td align="center">08:12:37</td>
+		<td align="center">08:13:13</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_139">
+		<td align="center">39</td>
+		<td align="center">08:13:13</td>
+		<td align="center">08:13:43</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portfolio.html" target="_blank"><b>http://localhost/sistema_hortonovaera/portfolio.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_140">
+		<td align="center">40</td>
+		<td align="center">00:49:09</td>
+		<td align="center">00:59:41</td>
+		<td colspan="5"><!--lang_stats_browser--> 2:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://hortonovaera.com.br/" target="_blank"><b>http://hortonovaera.com.br/</b></a></td>
+	</tr>
+<tr>
+    <td align="center"><a href="javascript:switchRowVisibility('pl_2');"><b>12</b></a></td>
+    <td align="center">07:42:01</td>
+    <td align="center">00:49:06</td>
+    <td NOWRAP>Brazil</td>
+    <td NOWRAP>Salvador</td>
+    <td NOWRAP>7</td>
+    <td NOWRAP>Windows 10</td>
+    <td class="vn" align="right"><div class="ico_info" onclick="showInfoBox('Vivo','1','1','177.158.xxx.xxx','177.158.xxx.xxx.dynamic.adsl.gvt.net.br','fdaa16da0c',this); return true;"></div></td>
+</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_21">
+		<td align="center">1</td>
+		<td align="center">07:42:00</td>
+		<td align="center">07:42:03</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_22">
+		<td align="center">2</td>
+		<td align="center">07:42:03</td>
+		<td align="center">07:42:05</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_23">
+		<td align="center">3</td>
+		<td align="center">07:42:05</td>
+		<td align="center">07:42:43</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_24">
+		<td align="center">4</td>
+		<td align="center">07:42:43</td>
+		<td align="center">07:42:50</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_25">
+		<td align="center">5</td>
+		<td align="center">07:42:50</td>
+		<td align="center">07:57:07</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_26">
+		<td align="center">6</td>
+		<td align="center">07:57:07</td>
+		<td align="center">08:02:14</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portifolio.php" target="_blank"><b>http://localhost/sistema_hortonovaera/portifolio.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_27">
+		<td align="center">7</td>
+		<td align="center">08:02:14</td>
+		<td align="center">08:02:16</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/index.php" target="_blank"><b>http://localhost/sistema_hortonovaera/index.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_28">
+		<td align="center">8</td>
+		<td align="center">08:02:16</td>
+		<td align="center">08:02:20</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_29">
+		<td align="center">9</td>
+		<td align="center">08:02:20</td>
+		<td align="center">08:02:33</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portfolio.html" target="_blank"><b>http://localhost/sistema_hortonovaera/portfolio.html</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_210">
+		<td align="center">10</td>
+		<td align="center">08:02:33</td>
+		<td align="center">08:10:20</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portifolio.php" target="_blank"><b>http://localhost/sistema_hortonovaera/portifolio.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_211">
+		<td align="center">11</td>
+		<td align="center">08:10:20</td>
+		<td align="center">08:11:15</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/contato.php" target="_blank"><b>http://localhost/sistema_hortonovaera/contato.php</b></a></td>
+	</tr>
+	<tr style="display:none;" class="bt_values_url" id="pl_212">
+		<td align="center">12</td>
+		<td align="center">08:11:15</td>
+		<td align="center">08:13:20</td>
+		<td colspan="5"><!--lang_stats_browser--> 1:&nbsp;&nbsp;<a href="http://dereferrer.livezilla.info/?url=http://localhost/sistema_hortonovaera/portifolio.php" target="_blank"><b>http://localhost/sistema_hortonovaera/portifolio.php</b></a></td>
+	</tr>
+
+			</table>
+			<br>
+		</td>
+	</tr>
+</table>
+<script type="text/javascript">
+function showInfoBox(_isp, _visits, _visits_day, _ip, _host, _id, _parent)
+{
+if(ibCurrent != _parent)
+{
+document.getElementById("info_box").innerHTML = "<strong>ID:</strong> " + _id + "<br><strong><!--lang_stats_isp-->:</strong> " + _isp + "<br><strong>IP:</strong> " +_ip + "<br><strong>Host:</strong> " +_host + "<br><strong><!--lang_stats_visits-->:</strong> " + _visits + "<br><strong><!--lang_stats_visits_today-->:</strong> " + _visits_day;
+assignPosition(document.getElementById("info_box"));
+document.getElementById("info_box").style.display = "block";
+ibCurrent = _parent;
+}
+else
+{
+document.getElementById("info_box").style.display = "none";
+ibCurrent = null;
+}
+}
+</script>
